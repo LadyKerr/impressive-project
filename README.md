@@ -1,5 +1,5 @@
-# impressive-project 🚀
-An impressive project built with GitHub Copilot Chat in 5 mins - DevWeek Demo
+# Impressive Project 🚀
+I asked GitHub Copilot Chat to build an impressive demo and it did. Run the commands below on your machine to take a look at what it built.
 
 # Local Development
 💡 Ensure you have python installed on your machine. 
@@ -16,7 +16,12 @@ An impressive project built with GitHub Copilot Chat in 5 mins - DevWeek Demo
 - watch the plot move faster!
 
 > Note: The higher the submitted num, the faster the line moves - or the more sine waves is shifted for each frame, which make the line appear to move faster.
-> The number acts as a multiplier for the speed of the wave’s movement. 
+> The number acts as a multiplier for the speed of the wave’s movement.
+
+Bonus ✨
+- stop your servers
+- run `plot2.py` to see another plot that copilot came up with! This one blew me away even more.
+
 
 # Contributing
 Contributions are welcomed to improve the app. Please open an issue to discuss larger changes to the app.
