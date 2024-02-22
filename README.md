@@ -1,6 +1,14 @@
 # Impressive Project 🚀
 I asked GitHub Copilot Chat to build an impressive demo and it did. Run the commands below on your machine to take a look at what it built.
 
+```
+P R O M P T :
+
+Create an impressive creative coding demo in python for 8,000 engineers at the developer week conference.
+This must be splashy and very very impressive to make people want to use GitHub Copilot.
+Can you help me and make something please?
+```
+
 # Local Development
 💡 Ensure you have python installed on your machine. 
 
